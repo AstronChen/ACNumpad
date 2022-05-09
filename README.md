@@ -65,4 +65,8 @@ ACNumpad刚启动时，默认挂起。托盘图标为红色，不会对键盘进
 
 ![image](https://user-images.githubusercontent.com/54497232/167415198-5a6bb9a2-6332-4c58-a2e6-04ca28a98848.png)
 
+# 相关工具
 
+AutoHotkey: https://www.autohotkey.com/
+
+Ahk2Exe: https://github.com/AutoHotkey/Ahk2Exe
