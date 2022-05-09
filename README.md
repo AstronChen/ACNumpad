@@ -56,10 +56,13 @@ ACNumpad刚启动时，默认挂起。托盘图标为红色，不会对键盘进
 
 
 ## 3. 卸载
+
 退出ACNumpad并删除目录文件。
 
 # 截图
+
 ![image](https://user-images.githubusercontent.com/54497232/167413255-97e595f9-1737-4eb3-9895-1504a766f3a2.png)
+
 ![image](https://user-images.githubusercontent.com/54497232/167415198-5a6bb9a2-6332-4c58-a2e6-04ca28a98848.png)
 
 
