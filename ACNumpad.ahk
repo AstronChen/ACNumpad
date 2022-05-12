@@ -18,8 +18,6 @@
 
 
 
-
-
 ;============================================Program===============================================
 #SingleInstance ; Allow only one instance of this script to be running.
 Persistent
