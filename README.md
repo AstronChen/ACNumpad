@@ -40,7 +40,7 @@ b、 （可选）向Startup文件夹发送快捷方式。
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 ```
 
-c、 （可选）进入设置-个性化设置-任务栏-其他系统托盘图标。切换以继续显示ACNumpad。
+c、 （可选）进入设置-个性化设置-任务栏-其他系统托盘图标。切换以持续显示ACNumpad。
 
 ## 2. 使用
 
