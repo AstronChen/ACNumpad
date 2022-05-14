@@ -1,8 +1,8 @@
 ;--------------------------------Ahk2Exe Script Compiler Directives---------------------------------
-;@Ahk2Exe-AddResource icon/logo.ico
-;@Ahk2Exe-AddResource icon/off.ico
-;@Ahk2Exe-AddResource icon/on.ico
-;@Ahk2Exe-SetMainIcon icon/logo.ico
+;@Ahk2Exe-AddResource assets/icon/logo.ico
+;@Ahk2Exe-AddResource assets/icon/off.ico
+;@Ahk2Exe-AddResource assets/icon/on.ico
+;@Ahk2Exe-SetMainIcon assets/icon/logo.ico
 ;@Ahk2Exe-ExeName ACNumpad
 ;@Ahk2Exe-SetInternalName ACNumpad
 ;@Ahk2Exe-SetName ACNumpad

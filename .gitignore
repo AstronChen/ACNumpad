@@ -1,3 +1,9 @@
+# User Defined
+assets/icon/ACNumpad.psd
+dist
+
+
+#vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -7,10 +13,3 @@
 
 # Local History for Visual Studio Code
 .history/
-
-# Built Visual Studio Code Extensions
-*.vsix
-
-# User Defined
-icon/ACNumpad.psd
-Release
