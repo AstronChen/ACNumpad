@@ -9,10 +9,6 @@ ACNumpad
 
 1.1
 
-# 发现类型
-
-【自荐】
-
 # 平台
 
 Windows
@@ -28,8 +24,10 @@ Windows
 # 说明
 
 ## 1. 安装
+
 a、 解压缩到任何地方。运行。
-b、 （可选）向Startup文件夹发送快捷方式。
+
+b、 （可选）Windows启动时自动启动ACNumpad，向Startup文件夹发送快捷方式。
 
 为当前用户安装：
 ```
